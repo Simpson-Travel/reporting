@@ -1,0 +1,15 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.httr-oauth$
+^\.Renviron$
+^\.Rprofile$
+^\.magnum\.yml$
+^\.travis\.yml$
+^data-raw$
+^man-roxygen$
+^tools$
+^tmp$
+rsconnect$
+^Makefile$
+\.*-token\.rds$
+.*~$

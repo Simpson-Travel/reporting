@@ -2,6 +2,9 @@ install.packages("RGoogleAnalytics")
 install.packages("RGA")
 isntall.packages("lubridate")
 install.packages('RDCOMClient', repos='http://www.omegahat.net/R')
+nstall.packages('devtools')
+library(devtools)
+install("RGAMasterEM")
 
 library(RGoogleAnalytics)
 client.id  <- "327238918544-fp6jmos9t658up3jde9i0old7crp08uf.apps.googleusercontent.com"

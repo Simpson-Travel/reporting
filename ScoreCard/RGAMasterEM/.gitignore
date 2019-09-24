@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.httr-oauth
+.*-token.rds
+.Renviron
+tmp
+inst/doc
+rsconnect
+*~$
+.*.Rnb.cached
